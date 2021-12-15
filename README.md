@@ -1,1 +1,1 @@
-# background-generator
+# A little background generator
